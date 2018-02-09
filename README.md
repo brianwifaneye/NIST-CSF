@@ -21,3 +21,6 @@ intends to provide better usability and management.
 Users can modify the tool to support alternate maturity models (ex: CSF recommends tiers). Users can update with the CSF v1.1 
 changes when finalized (adding in 3rd party governance). All data is fictitious and is represented as an example. Please update
 to reflect actual service catalog products and solutions, as well as, actual maturity and projects.
+
+# Sensitive_Info_Table
+The sensitive information table is designed as a quick reference to publish to our organization to help people understand potential compliance requirements if they store various private data fields. Specifically addresses PCI, PHI, and PII. This can be adapted to include additional types. The Oregon laws are added due to our organization residing in Oregon. If you are outside Oregon, research your state/country laws and compliance as needed.
