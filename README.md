@@ -2,7 +2,7 @@
 NIST CyberSecurity Framework management tool
 
 ## Updated for the NIST CSF v1.1 update from 2018 ##
-## 2017 Markup version highlights changes from CSF v1.0 to CSF v1.1 for those migrating from the old version.
+### 2017 Markup version highlights changes from CSF v1.0 to CSF v1.1 for those migrating from the old version.
 
 These excel documents provide a visual view of the NIST CyberSecurity Framework (CSF), adding in additional 
 fields to manage to the framework.
