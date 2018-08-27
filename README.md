@@ -15,7 +15,11 @@ The 2016 workbook has 3 main sheets, the first 2 are instructional and can be re
 The 3rd sheet has demo-data, which can be replaced with actual data from an organization. 
 
 ## 2017 robust version
-The 2017 version has a few additional sheets, including a CMMI reference sheet.
+The 2017 version has: 
+ - a CMMI reference sheet 
+ - Main sheet has collapsible sections for ease of display and management
+ - The CSF sub-categories are listed, expanding the Information Security Catalog to address each sub control
+ - The maturity functions are auto-calculated based on 4 areas: Process, Policy, Documentation, and Automation
 
 ## Key components of these tools: 
  - Track the CSF controls individually
