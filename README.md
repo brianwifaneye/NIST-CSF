@@ -6,6 +6,7 @@ https://www.youtube.com/watch?v=hrdAhPtKpGE
 
 ## Updated for the NIST CSF v1.1 update from 2018 ##
 ### 2017 Markup version highlights changes from CSF v1.0 to CSF v1.1 for those migrating from the old version.
+### Also updated with CIS v8.0 release (2021)
 
 These excel documents provide a visual view of the NIST CyberSecurity Framework (CSF), adding in additional 
 fields to manage to the framework.
