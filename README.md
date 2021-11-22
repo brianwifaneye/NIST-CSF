@@ -18,6 +18,9 @@ intends to provide better usability and management.
 The 2016 workbook has 3 main sheets, the first 2 are instructional and can be removed once one is comfortable with the tool. 
 The 3rd sheet has demo-data, which can be replaced with actual data from an organization. 
 
+The 2016 version and 2017 markup versions are obsolete at this point. Only use the 2017 version, reflecting recent updates 
+to the standard and supporting documentation.
+
 ## 2017 robust version
 The 2017 version has: 
  - a CMMI reference sheet 
